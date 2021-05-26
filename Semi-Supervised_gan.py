@@ -1,3 +1,5 @@
+# Semi-Supervised_gan 논문 
+
 # https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/sgan/sgan.py
 
 
